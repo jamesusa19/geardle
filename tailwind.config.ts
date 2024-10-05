@@ -1,4 +1,4 @@
-import type { Config } from "tailwindcss";
+import type { Config } from "tailwindcss"
 
 const config: Config = {
   content: [
@@ -9,9 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        gred: "rgb(var(--color-gred))",
+        ggray: "rgb(var(--color-ggray))",
       },
     },
   },
   plugins: [],
-};
-export default config;
+}
+export default config

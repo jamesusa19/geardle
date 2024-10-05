@@ -1,26 +1,26 @@
-"use client";
+"use client"
 
-import { useEffect, useState } from "react";
+import { useEffect, useState } from "react"
 
-import characters from "./characters.json";
+import characters from "./characters.json"
 
 export default function Classic() {
-  const [current, setCurrent] = useState("");
-  const [dropdown, setDropdown] = useState(false);
-  const [options, setOptions] = useState<string[]>([]);
+  const [current, setCurrent] = useState("")
+  const [dropdown, setDropdown] = useState(false)
+  const [options, setOptions] = useState<string[]>([])
 
   useEffect(() => {
     if (current === "") {
-      setDropdown(false);
-      return;
+      setDropdown(false)
+      return
     }
-    const names = Object.keys(characters);
+    const names = Object.keys(characters)
     const newOptions = names.filter((name) =>
       name.toLowerCase().startsWith(current.toLowerCase())
-    );
-    setOptions(newOptions);
-    setDropdown(true);
-  }, [current]);
+    )
+    setOptions(newOptions)
+    setDropdown(true)
+  }, [current])
 
   return (
     <>
@@ -30,15 +30,16 @@ export default function Classic() {
         value={current}
         onChange={(e) => setCurrent(e.target.value)}
         placeholder="Guess a character..."
+        className="w-50 "
         required
       />
       {dropdown && (
         <ul>
           {options.map((option) => {
-            return <li key={option}>{option}</li>;
+            return <li className="w-50" key={option}>{option}</li>
           })}
         </ul>
       )}
     </>
-  );
+  )
 }

@@ -2,8 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  :root {
+    --color-gred: 182 22 4;
+    --color-ggray: 39 39 39;
+  }
+}
+
 :root {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   line-height: 2;
   font-size: x-large;
 
