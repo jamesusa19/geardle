@@ -1,362 +1,362 @@
 {
   "Anji Mito": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Balance",
-    "resource": "No",
-    "first-appearance": "GGX",
-    "weight": 67
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Balance",
+    "Resource": "No",
+    "First Appearance": "GGX",
+    "Weight": 67
   },
   "Answer": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Ninja",
-    "resource": "No",
-    "first-appearance": "GGXrd Rev 2",
-    "weight": 75
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Ninja",
+    "Resource": "No",
+    "First Appearance": "GGXrd Rev 2",
+    "Weight": 75
   },
   "Asuka R. Kreutz": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Balance",
-    "resource": "No",
-    "first-appearance": "GGXrd Rev 2",
-    "weight": 70
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Balance",
+    "Resource": "No",
+    "First Appearance": "GGXrd Rev 2",
+    "Weight": 70
   },
   "Axl Low": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Zoner",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 76
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Zoner",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 76
   },
   "A.B.A.": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Grappler",
-    "resource": "Yes",
-    "first-appearance": "GGXX",
-    "weight": 43
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Grappler",
+    "Resource": "Yes",
+    "First Appearance": "GGXX",
+    "Weight": 43
   },
   "Baiken": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Counter",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 58
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Counter",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 58
   },
   "Bedman": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Technical",
-    "resource": "Yes",
-    "first-appearance": "GGXrd",
-    "weight": 125
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Technical",
+    "Resource": "Yes",
+    "First Appearance": "GGXrd",
+    "Weight": 125
   },
   "Bridget": {
-    "gender": "Non-binary",
-    "race": "Human",
-    "archetype": "Mix-up",
-    "resource": "No",
-    "first-appearance": "GGXX",
-    "weight": 51
+    "Gender": "Non-binary",
+    "Race": "Human",
+    "Archetype": "Mix-up",
+    "Resource": "No",
+    "First Appearance": "GGXX",
+    "Weight": 51
   },
   "Chipp Zanuff": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Rushdown",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 56
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Rushdown",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 56
   },
   "Dr. Paradigm": {
-    "gender": "Male",
-    "race": "Dragon",
-    "archetype": "Zoner",
-    "resource": "Yes",
-    "first-appearance": "GG2:O",
-    "weight": 120
+    "Gender": "Male",
+    "Race": "Dragon",
+    "Archetype": "Zoner",
+    "Resource": "Yes",
+    "First Appearance": "GG2:O",
+    "Weight": 120
   },
   "Delilah": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Technical",
-    "resource": "Yes",
-    "first-appearance": "Guilty Gear Strive",
-    "weight": 54
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Technical",
+    "Resource": "Yes",
+    "First Appearance": "Guilty Gear Strive",
+    "Weight": 54
   },
   "Dr. Baldhead": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Zoner",
-    "resource": "No",
-    "first-appearance": "Guilty Gear Xrd",
-    "weight": 80
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Zoner",
+    "Resource": "No",
+    "First Appearance": "Guilty Gear Xrd",
+    "Weight": 80
   },
   "Dizzy": {
-    "gender": "Female",
-    "race": "Half-Gear",
-    "archetype": "Zoner",
-    "resource": "Yes",
-    "first-appearance": "GGX",
-    "weight": 59
+    "Gender": "Female",
+    "Race": "Half-Gear",
+    "Archetype": "Zoner",
+    "Resource": "Yes",
+    "First Appearance": "GGX",
+    "Weight": 59
   },
   "Elphelt Valentine": {
-    "gender": "Female",
-    "race": "Artificial Being",
-    "archetype": "Shooter",
-    "resource": "Yes",
-    "first-appearance": "GGXrd",
-    "weight": 61
+    "Gender": "Female",
+    "Race": "Artificial Being",
+    "Archetype": "Shooter",
+    "Resource": "Yes",
+    "First Appearance": "GGXrd",
+    "Weight": 61
   },
   "Faust": {
-    "gender": "Male",
-    "race": "Unknown",
-    "archetype": "Tricky",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 55
+    "Gender": "Male",
+    "Race": "Unknown",
+    "Archetype": "Tricky",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 55
   },
   "Giovanna": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Rushdown",
-    "resource": "No",
-    "first-appearance": "Strive",
-    "weight": 68
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Rushdown",
+    "Resource": "No",
+    "First Appearance": "Strive",
+    "Weight": 68
   },
   "Goldlewis Dickinson": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Heavy",
-    "resource": "No",
-    "first-appearance": "Strive",
-    "weight": 190
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Heavy",
+    "Resource": "No",
+    "First Appearance": "Strive",
+    "Weight": 190
   },
   "Happy Chaos": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Shooter",
-    "resource": "Yes",
-    "first-appearance": "Strive",
-    "weight": 80
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Shooter",
+    "Resource": "Yes",
+    "First Appearance": "Strive",
+    "Weight": 80
   },
   "I-No": {
-    "gender": "Female",
-    "race": "Unknown",
-    "archetype": "Rushdown",
-    "resource": "Yes",
-    "first-appearance": "GGXX",
-    "weight": 56
+    "Gender": "Female",
+    "Race": "Unknown",
+    "Archetype": "Rushdown",
+    "Resource": "Yes",
+    "First Appearance": "GGXX",
+    "Weight": 56
   },
   "Jack-O'": {
-    "gender": "Female",
-    "race": "Artificial Being",
-    "archetype": "Summoner",
-    "resource": "Yes",
-    "first-appearance": "GGXrd",
-    "weight": 52
+    "Gender": "Female",
+    "Race": "Artificial Being",
+    "Archetype": "Summoner",
+    "Resource": "Yes",
+    "First Appearance": "GGXrd",
+    "Weight": 52
   },
   "Jam Kuradoberi": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Rushdown",
-    "resource": "Yes",
-    "first-appearance": "GGX",
-    "weight": 55
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Rushdown",
+    "Resource": "Yes",
+    "First Appearance": "GGX",
+    "Weight": 55
   },
   "Johnny": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Fencer",
-    "resource": "Yes",
-    "first-appearance": "GG",
-    "weight": 75
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Fencer",
+    "Resource": "Yes",
+    "First Appearance": "GG",
+    "Weight": 75
   },
   "Justice": {
-    "gender": "Female",
-    "race": "Gear",
-    "archetype": "Zoner",
-    "resource": "Yes",
-    "first-appearance": "GG",
-    "weight": 250
+    "Gender": "Female",
+    "Race": "Gear",
+    "Archetype": "Zoner",
+    "Resource": "Yes",
+    "First Appearance": "GG",
+    "Weight": 250
   },
   "Kliff Undersn": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Heavy",
-    "resource": "No",
-    "first-appearance": "Guilty Gear",
-    "weight": 120
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Heavy",
+    "Resource": "No",
+    "First Appearance": "Guilty Gear",
+    "Weight": 120
   },
   "Kum Haehyun": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Balanced",
-    "resource": "No",
-    "first-appearance": "GGXrd Revelator",
-    "weight": 250
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Balanced",
+    "Resource": "No",
+    "First Appearance": "GGXrd Revelator",
+    "Weight": 250
   },
   "Ky Kiske": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Balance",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 128
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Balance",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 128
   },
   "Leopaldon": {
-    "gender": "Unknown",
-    "race": "Gear",
-    "archetype": "Heavy",
-    "resource": "No",
-    "first-appearance": "Guilty Gear Isuka",
-    "weight": 200
+    "Gender": "Unknown",
+    "Race": "Gear",
+    "Archetype": "Heavy",
+    "Resource": "No",
+    "First Appearance": "Guilty Gear Isuka",
+    "Weight": 200
   },
   "Leo Whitefang": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Charge",
-    "resource": "No",
-    "first-appearance": "GGXrd",
-    "weight": 93
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Charge",
+    "Resource": "No",
+    "First Appearance": "GGXrd",
+    "Weight": 93
   },
   "Lucy": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Balance",
-    "resource": "No",
-    "first-appearance": "Guilty Gear Strive",
-    "weight": 60
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Balance",
+    "Resource": "No",
+    "First Appearance": "Guilty Gear Strive",
+    "Weight": 60
   },
   "May": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Grappler",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 46
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Grappler",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 46
   },
   "Millia Rage": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Rushdown",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 48
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Rushdown",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 48
   },
   "Nagoriyuki": {
-    "gender": "Male",
-    "race": "Vampire",
-    "archetype": "Samurai",
-    "resource": "Yes",
-    "first-appearance": "Strive",
-    "weight": 113
+    "Gender": "Male",
+    "Race": "Vampire",
+    "Archetype": "Samurai",
+    "Resource": "Yes",
+    "First Appearance": "Strive",
+    "Weight": 113
   },
   "Order Sol": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Balance",
-    "resource": "No",
-    "first-appearance": "Guilty Gear XX #Reload",
-    "weight": 85
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Balance",
+    "Resource": "No",
+    "First Appearance": "Guilty Gear XX #Reload",
+    "Weight": 85
   },
   "Potemkin": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Grappler",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 270
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Grappler",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 270
   },
   "Ramlethal Valentine": {
-    "gender": "Female",
-    "race": "Artificial Being",
-    "archetype": "Zoner",
-    "resource": "No",
-    "first-appearance": "GGXrd",
-    "weight": 67
+    "Gender": "Female",
+    "Race": "Artificial Being",
+    "Archetype": "Zoner",
+    "Resource": "No",
+    "First Appearance": "GGXrd",
+    "Weight": 67
   },
   "Raven": {
-    "gender": "Male",
-    "race": "Immortal",
-    "archetype": "Tricky",
-    "resource": "Yes",
-    "first-appearance": "GGXrd Revelator",
-    "weight": 78
+    "Gender": "Male",
+    "Race": "Immortal",
+    "Archetype": "Tricky",
+    "Resource": "Yes",
+    "First Appearance": "GGXrd Revelator",
+    "Weight": 78
   },
   "Robo-Ky": {
-    "gender": "Male",
-    "race": "Robot",
-    "archetype": "Counter",
-    "resource": "Yes",
-    "first-appearance": "GGXX",
-    "weight": 240
+    "Gender": "Male",
+    "Race": "Robot",
+    "Archetype": "Counter",
+    "Resource": "Yes",
+    "First Appearance": "GGXX",
+    "Weight": 240
   },
   "Sin Kiske": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Balance",
-    "resource": "Yes",
-    "first-appearance": "GG2:O",
-    "weight": 69
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Balance",
+    "Resource": "Yes",
+    "First Appearance": "GG2:O",
+    "Weight": 69
   },
   "Slayer": {
-    "gender": "Male",
-    "race": "Vampire",
-    "archetype": "Rushdown",
-    "resource": "No",
-    "first-appearance": "GGXX",
-    "weight": 88
+    "Gender": "Male",
+    "Race": "Vampire",
+    "Archetype": "Rushdown",
+    "Resource": "No",
+    "First Appearance": "GGXX",
+    "Weight": 88
   },
   "Sol Badguy": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Balance",
-    "resource": "No",
-    "first-appearance": "GG",
-    "weight": 84
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Balance",
+    "Resource": "No",
+    "First Appearance": "GG",
+    "Weight": 84
   },
   "Testament": {
-    "gender": "Non-binary",
-    "race": "Half-Gear",
-    "archetype": "Trapper",
-    "resource": "Yes",
-    "first-appearance": "GG",
-    "weight": 75
+    "Gender": "Non-binary",
+    "Race": "Half-Gear",
+    "Archetype": "Trapper",
+    "Resource": "Yes",
+    "First Appearance": "GG",
+    "Weight": 75
   },
   "Unika": {
-    "gender": "Female",
-    "race": "Human",
-    "archetype": "Unknown",
-    "resource": "Unknown",
-    "first-appearance": "Guilty Gear Strive",
-    "weight": 55
+    "Gender": "Female",
+    "Race": "Human",
+    "Archetype": "Unknown",
+    "Resource": "Unknown",
+    "First Appearance": "Guilty Gear Strive",
+    "Weight": 55
   },
   "Venom": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Zoner",
-    "resource": "No",
-    "first-appearance": "GGX",
-    "weight": 73
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Zoner",
+    "Resource": "No",
+    "First Appearance": "GGX",
+    "Weight": 73
   },
   "Zappa": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Tricky",
-    "resource": "Yes",
-    "first-appearance": "GGXX",
-    "weight": 68
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Tricky",
+    "Resource": "Yes",
+    "First Appearance": "GGXX",
+    "Weight": 68
   },
   "Zato-1": {
-    "gender": "Male",
-    "race": "Human",
-    "archetype": "Summoner",
-    "resource": "Yes",
-    "first-appearance": "GG",
-    "weight": 150
+    "Gender": "Male",
+    "Race": "Human",
+    "Archetype": "Summoner",
+    "Resource": "Yes",
+    "First Appearance": "GG",
+    "Weight": 150
   }
 }
