@@ -8,6 +8,12 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      keyframes: {
+        fadeIn: {
+          '0%': {opacity: '0'},
+          '100%': {opacity: '100'}
+        }
+      },
       colors: {
         gred: "rgb(var(--color-gred))",
         ggray: "rgb(var(--color-ggray))",
