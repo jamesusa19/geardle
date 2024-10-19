@@ -18,7 +18,6 @@ export default function Home() {
             alt="Website logo"
             width={50}
             height={50}
-            className="h-fit"
           />
           <div className="flex flex-col items-center justify-center bg-ggray text-white">
             <span>Character</span>
