@@ -4,7 +4,7 @@
     "Race": "Human",
     "Archetype": "Balance",
     "Resource": "No",
-    "First Appearance": "GGX",
+    "First Appearance": "Guilty Gear X",
     "Weight": 150
   },
   "Answer": {
@@ -12,7 +12,7 @@
     "Race": "Human",
     "Archetype": "Ninja",
     "Resource": "No",
-    "First Appearance": "GGXrd Rev 2",
+    "First Appearance": "Guilty Gear Xrd Rev 2 ",
     "Weight": 75
   },
   "Asuka R. Kreutz": {
@@ -20,7 +20,7 @@
     "Race": "Human",
     "Archetype": "Balance",
     "Resource": "No",
-    "First Appearance": "GGXrd Rev 2",
+    "First Appearance": "Guilty Gear Xrd Rev 2 ",
     "Weight": 70
   },
   "Axl Low": {
@@ -28,7 +28,7 @@
     "Race": "Human",
     "Archetype": "Zoner",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 76
   },
   "A.B.A.": {
@@ -36,7 +36,7 @@
     "Race": "Human",
     "Archetype": "Grappler",
     "Resource": "Yes",
-    "First Appearance": "GGXX",
+    "First Appearance": "Guilty Gear XX",
     "Weight": 43
   },
   "Baiken": {
@@ -44,7 +44,7 @@
     "Race": "Human",
     "Archetype": "Counter",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 58
   },
   "Bedman": {
@@ -52,7 +52,7 @@
     "Race": "Human",
     "Archetype": "Technical",
     "Resource": "Yes",
-    "First Appearance": "GGXrd",
+    "First Appearance": "Guilty Gear Xrd -Sign-",
     "Weight": 125
   },
   "Bridget": {
@@ -60,7 +60,7 @@
     "Race": "Human",
     "Archetype": "Mix-up",
     "Resource": "No",
-    "First Appearance": "GGXX",
+    "First Appearance": "Guilty Gear XX",
     "Weight": 51
   },
   "Chipp Zanuff": {
@@ -68,7 +68,7 @@
     "Race": "Human",
     "Archetype": "Rushdown",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 56
   },
   "Dr. Paradigm": {
@@ -76,7 +76,7 @@
     "Race": "Dragon",
     "Archetype": "Zoner",
     "Resource": "Yes",
-    "First Appearance": "GG2:O",
+    "First Appearance": "Guilty Gear 2: Overture",
     "Weight": 120
   },
   "Delilah": {
@@ -100,7 +100,7 @@
     "Race": "Half-Gear",
     "Archetype": "Zoner",
     "Resource": "Yes",
-    "First Appearance": "GGX",
+    "First Appearance": "Guilty Gear X",
     "Weight": 59
   },
   "Elphelt Valentine": {
@@ -108,7 +108,7 @@
     "Race": "Artificial Being",
     "Archetype": "Shooter",
     "Resource": "Yes",
-    "First Appearance": "GGXrd",
+    "First Appearance": "Guilty Gear Xrd -Sign-",
     "Weight": 61
   },
   "Faust": {
@@ -116,7 +116,7 @@
     "Race": "Unknown",
     "Archetype": "Tricky",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 55
   },
   "Giovanna": {
@@ -124,7 +124,7 @@
     "Race": "Human",
     "Archetype": "Rushdown",
     "Resource": "No",
-    "First Appearance": "Strive",
+    "First Appearance": "Guilty Gear Strive",
     "Weight": 68
   },
   "Goldlewis Dickinson": {
@@ -132,7 +132,7 @@
     "Race": "Human",
     "Archetype": "Heavy",
     "Resource": "No",
-    "First Appearance": "Strive",
+    "First Appearance": "Guilty Gear Strive",
     "Weight": 190
   },
   "Happy Chaos": {
@@ -140,7 +140,7 @@
     "Race": "Human",
     "Archetype": "Shooter",
     "Resource": "Yes",
-    "First Appearance": "Strive",
+    "First Appearance": "Guilty Gear Strive",
     "Weight": 80
   },
   "I-No": {
@@ -148,7 +148,7 @@
     "Race": "Unknown",
     "Archetype": "Rushdown",
     "Resource": "Yes",
-    "First Appearance": "GGXX",
+    "First Appearance": "Guilty Gear XX",
     "Weight": 56
   },
   "Jack-O'": {
@@ -156,7 +156,7 @@
     "Race": "Artificial Being",
     "Archetype": "Summoner",
     "Resource": "Yes",
-    "First Appearance": "GGXrd",
+    "First Appearance": "Guilty Gear Xrd -Sign-",
     "Weight": 52
   },
   "Jam Kuradoberi": {
@@ -164,7 +164,7 @@
     "Race": "Human",
     "Archetype": "Rushdown",
     "Resource": "Yes",
-    "First Appearance": "GGX",
+    "First Appearance": "Guilty Gear X",
     "Weight": 55
   },
   "Johnny": {
@@ -172,7 +172,7 @@
     "Race": "Human",
     "Archetype": "Fencer",
     "Resource": "Yes",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 75
   },
   "Justice": {
@@ -180,7 +180,7 @@
     "Race": "Gear",
     "Archetype": "Zoner",
     "Resource": "Yes",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 250
   },
   "Kliff Undersn": {
@@ -196,7 +196,7 @@
     "Race": "Human",
     "Archetype": "Balanced",
     "Resource": "No",
-    "First Appearance": "GGXrd Revelator",
+    "First Appearance": "Guilty Gear Xrd -Revelator-",
     "Weight": 250
   },
   "Ky Kiske": {
@@ -204,23 +204,15 @@
     "Race": "Human",
     "Archetype": "Balance",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 128
-  },
-  "Leopaldon": {
-    "Gender": "Unknown",
-    "Race": "Gear",
-    "Archetype": "Heavy",
-    "Resource": "No",
-    "First Appearance": "Guilty Gear Isuka",
-    "Weight": 200
   },
   "Leo Whitefang": {
     "Gender": "Male",
     "Race": "Human",
     "Archetype": "Charge",
     "Resource": "No",
-    "First Appearance": "GGXrd",
+    "First Appearance": "Guilty Gear Xrd -Sign-",
     "Weight": 93
   },
   "Lucy": {
@@ -236,7 +228,7 @@
     "Race": "Human",
     "Archetype": "Grappler",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 46
   },
   "Millia Rage": {
@@ -244,7 +236,7 @@
     "Race": "Human",
     "Archetype": "Rushdown",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 48
   },
   "Nagoriyuki": {
@@ -252,7 +244,7 @@
     "Race": "Vampire",
     "Archetype": "Samurai",
     "Resource": "Yes",
-    "First Appearance": "Strive",
+    "First Appearance": "Guilty Gear Strive",
     "Weight": 113
   },
   "Order Sol": {
@@ -268,7 +260,7 @@
     "Race": "Human",
     "Archetype": "Grappler",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 270
   },
   "Ramlethal Valentine": {
@@ -276,7 +268,7 @@
     "Race": "Artificial Being",
     "Archetype": "Zoner",
     "Resource": "No",
-    "First Appearance": "GGXrd",
+    "First Appearance": "Guilty Gear Xrd -Sign-",
     "Weight": 67
   },
   "Raven": {
@@ -284,7 +276,7 @@
     "Race": "Immortal",
     "Archetype": "Tricky",
     "Resource": "Yes",
-    "First Appearance": "GGXrd Revelator",
+    "First Appearance": "Guilty Gear Xrd -Revelator-",
     "Weight": 78
   },
   "Robo-Ky": {
@@ -292,7 +284,7 @@
     "Race": "Robot",
     "Archetype": "Counter",
     "Resource": "Yes",
-    "First Appearance": "GGXX",
+    "First Appearance": "Guilty Gear XX",
     "Weight": 240
   },
   "Sin Kiske": {
@@ -300,7 +292,7 @@
     "Race": "Human",
     "Archetype": "Balance",
     "Resource": "Yes",
-    "First Appearance": "GG2:O",
+    "First Appearance": "Guilty Gear 2: Overture",
     "Weight": 69
   },
   "Slayer": {
@@ -308,7 +300,7 @@
     "Race": "Vampire",
     "Archetype": "Rushdown",
     "Resource": "No",
-    "First Appearance": "GGXX",
+    "First Appearance": "Guilty Gear XX",
     "Weight": 88
   },
   "Sol Badguy": {
@@ -316,7 +308,7 @@
     "Race": "Human",
     "Archetype": "Balance",
     "Resource": "No",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 84
   },
   "Testament": {
@@ -324,7 +316,7 @@
     "Race": "Half-Gear",
     "Archetype": "Trapper",
     "Resource": "Yes",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 75
   },
   "Unika": {
@@ -340,7 +332,7 @@
     "Race": "Human",
     "Archetype": "Zoner",
     "Resource": "No",
-    "First Appearance": "GGX",
+    "First Appearance": "Guilty Gear X",
     "Weight": 73
   },
   "Zappa": {
@@ -348,7 +340,7 @@
     "Race": "Human",
     "Archetype": "Tricky",
     "Resource": "Yes",
-    "First Appearance": "GGXX",
+    "First Appearance": "Guilty Gear XX",
     "Weight": 68
   },
   "Zato-1": {
@@ -356,7 +348,7 @@
     "Race": "Human",
     "Archetype": "Summoner",
     "Resource": "Yes",
-    "First Appearance": "GG",
+    "First Appearance": "Guilty Gear",
     "Weight": 150
   }
 }

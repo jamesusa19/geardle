@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react"
 import Image from "next/image"
 
 import characterData from "./characters.json"
-import { Characters, Character } from "./types.js"
+import { Characters } from "./types.js"
 
 export default function Classic() {
   const characters: Characters = characterData
@@ -15,6 +15,21 @@ export default function Classic() {
   const [dropdown, setOptions] = useState<string[]>([])
 
   // const character = useGetDailyCharacter()
+  const guilty_gear_games = [
+    "Guilty Gear",
+    "Guilty Gear X",
+    "Guilty Gear XX",
+    "Guilty Gear XX #Reload",
+    "Guilty Gear XX Slash",
+    "Guilty Gear XX #Λ Core",
+    "Guilty Gear XX #Λ Core Plus",
+    "Guilty Gear XX #Λ Core Plus R",
+    "Guilty Gear 2: Overture",
+    "Guilty Gear Xrd -Sign-",
+    "Guilty Gear Xrd -Revelator-",
+    "Guilty Gear Xrd Rev 2",
+    "Guilty Gear -Strive-",
+  ]
   const character = "Ky Kiske"
 
   useEffect(() => {
@@ -24,9 +39,7 @@ export default function Classic() {
     }
     const names = Object.keys(characters)
     const newDropdown = names.filter(
-      (name) =>
-        name.toLowerCase().startsWith(current.toLowerCase()) &&
-        !history.includes(name)
+      (name) => name.toLowerCase().startsWith(current.toLowerCase()) && !history.includes(name)
     )
     setOptions(newDropdown)
     setShowDropdown(true)
@@ -55,11 +68,7 @@ export default function Classic() {
         <ul>
           {dropdown.map((name) => {
             return (
-              <li
-                className="w-50 cursor-pointer"
-                onClick={() => addGuess(name)}
-                key={name}
-              >
+              <li className="w-50 cursor-pointer" onClick={() => addGuess(name)} key={name}>
                 {name}
               </li>
             )
@@ -76,41 +85,57 @@ export default function Classic() {
             </tr>
           </thead>
           <tbody>
-            {history.map((characterName) => {
+            {history.map((characterName, nameIndex) => {
               console.log(characterName)
               return (
-                <tr className="text-center">
-                  {Object.values(characters[characterName]).map((trait, i) => {
+                <tr className="text-center" key={characterName}>
+                  {Object.values(characters[characterName]).map((trait, traitIndex) => {
                     let variants = [
-                      `animate-[fadeIn_2s_forwards_0s]`,
-                      `animate-[fadeIn_2s_forwards_.5s]`,
-                      `animate-[fadeIn_2s_forwards_1s]`,
-                      `animate-[fadeIn_2s_forwards_1.5s]`,
-                      `animate-[fadeIn_2s_forwards_2s]`,
-                      `animate-[fadeIn_2s_forwards_2.5s]`,
+                      `opacity-0 animate-[fadeIn_2s_forwards_0s]`,
+                      `opacity-0 animate-[fadeIn_2s_forwards_.5s]`,
+                      `opacity-0 animate-[fadeIn_2s_forwards_1s]`,
+                      `opacity-0 animate-[fadeIn_2s_forwards_1.5s]`,
+                      `opacity-0 animate-[fadeIn_2s_forwards_2s]`,
+                      `opacity-0 animate-[fadeIn_2s_forwards_2.5s]`,
                     ]
-                    let css = "opacity-0 border-solid border-1 border-black"
-                    css += " " + variants[i]
+                    let css = " border-solid border-1 border-black"
+                    if (nameIndex === 0) {
+                      css += " " + variants[traitIndex]
+                    }
 
-                    const dailyTrait = Object.values(characters[character])[i]
-                    if (dailyTrait !== trait) {
+                    const traitValue = Object.values(characters[character])[traitIndex]
+                    const traitKey = Object.keys(characters[character])[traitIndex]
+                    if (traitValue !== trait) {
                       css += " bg-gred"
                     } else {
                       css += " bg-ggreen"
                     }
                     let arrow
-                    if (typeof trait === "number") {
-                      if (trait < dailyTrait) {
+                    if (traitKey === "Weight") {
+                      if (trait < traitValue) {
+                        arrow = (
+                          <Image className="inline-table" src="/arrow-up.svg" alt="Up Arrow" width={24} height={24} />
+                        )
+                      } else if (trait > traitValue) {
                         arrow = (
                           <Image
                             className="inline-table"
-                            src="/arrow-up.svg"
-                            alt="Up Arrow"
+                            src="/arrow-down.svg"
+                            alt="Down Arrow"
                             width={24}
                             height={24}
                           />
                         )
-                      } else if (trait > dailyTrait) {
+                      }
+                    }
+                    if (traitKey === "First Appearance") {
+                      const dailyIndex = guilty_gear_games.findIndex((element) => element === traitValue)
+                      const charIndex = guilty_gear_games.findIndex((element) => element === trait)
+                      if (charIndex < dailyIndex) {
+                        arrow = (
+                          <Image className="inline-table" src="/arrow-up.svg" alt="Up Arrow" width={24} height={24} />
+                        )
+                      } else if (charIndex > dailyIndex) {
                         arrow = (
                           <Image
                             className="inline-table"
